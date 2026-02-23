@@ -1,0 +1,7 @@
+# Background
+
+The [HERO App (Heart Rehab Information Tool)](https://dhp.lbg.ac.at/hero-das-herz-reha-informationstool/) was originally created as part of a PhD project to help patients after a heart event—like a heart attack or surgery—find their way through cardiac rehabilitation. It provides easy-to-understand digital information about the next steps in treatment and helps fill information gaps after hospital care.
+
+Today, the app is further developed under the name HERO WAYS as part of follow-up projects like [Prehab2Rehab](https://prehab2rehab.at/). What started as a cardiology-focused tool is evolving into a modular, flexibly adaptable platform. The aim is to expand the application to other medical contexts, for example, visceral surgical procedures, thereby creating a sustainable, transferable solution for various healthcare areas.
+
+The development is led by the [Ludwig Boltzmann Institute for Digital Health and Prevention](https://dhp.lbg.ac.at/) and has been supported by the [Institute for Preventive and Rehabilitative Sports Medicine at the University Hospital Salzburg](https://salk.at/sportmedizin/) as well as the [Open Innovation in Science Center of the Ludwig Boltzmann Gesellschaft](https://lbg.ac.at/forschung/open-innovation-in-science/). The technical implementation is carried out in collaboration with the industry partner [Redox Interactive](https://redox-interactive.com/).
