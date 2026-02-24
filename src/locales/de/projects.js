@@ -1,10 +1,10 @@
 const projects = [
   {
     date: "XX/XX –XX/24",
-    name: "Identifying Barriers to Cardiac Rehabilitation Participation in Austria",
-    tags: ["Contextual Inquiry"],
+    name: "Kontextuelle Untersuchung von Barrieren für die Inanspruchnahme kardialer Rehabilitation in Österreich",
+    tags: ["Kontextuelle Untersuchung"],
     description:
-      "Cardiac rehabilitation is vital for preventing further heart problems, yet many eligible patients do not take part. This study examined the cardiac rehabilitation referral process in Austria through observations and stakeholder interviews, identifying gaps such as unclear referrals, limited communication between care settings, and lack of patient information. Findings suggest that digital health tools could provide timely guidance, automate referrals, and enhance communication to support patient-centered care pathways.",
+      "Eine kardiologische Rehabilitation ist wichtig, um weiteren Herzproblemen vorzubeugen, dennoch nehmen viele anspruchsberechtigte Patient:innen nicht daran teil. Diese Studie untersuchte den Überweisungsprozess zur kardialen Rehabilitation in Österreich durch Beobachtungen und Stakeholder-Interviews. Dabei wurden Herausforderungen wie unklare Überweisungswege, eingeschränkte Kommunikation zwischen Versorgungseinrichtungen und fehlende Patienteninformationen identifiziert. Die Ergebnisse deuten darauf hin, dass digitale Gesundheitstechnologien dazu beitragen könnten, Patient:innen durch eine zeitnahe Bereitstellung relevanter Informationen zu unterstützen, Überweisungsprozesse zu automatisieren und die Kommunikation zwischen den beteiligten Versorgungseinrichtungen zu verbessern, um so patientenzentrierte Versorgungspfade nachhaltig zu stärken.",
     publications: [
       {
         title: "Establishing Foundations on Both Sides of the Bridge: Exploring Contextual Barriers to Cardiac Rehabilitation Uptake to Inform Digital Health Technology Design",
@@ -14,10 +14,10 @@ const projects = [
   },
   {
     date: "XX/XX –XX/24",
-    name: "Co-Designing a Digital Companion to Support Cardiac Rehabilitation Transitions",
+    name: "Co-Design eines digitalen Begleiters, um den Zugang zur kardialen Rehabilitation zu erleichtern",
     tags: ["Co-Design"],
     description:
-      "Cardiovascular diseases are a major health challenge, yet many patients miss out on cardiac rehabilitation due to gaps in the referral process and limited information. This research explored patients’ needs during the transition from hospital to rehabilitation, identifying guidance required at three stages: hospital stay, time at home, and during cardiac rehabilitation. It also co-designed a digital cardiac rehabilitation referral assistant with patients and healthcare professionals. The project demonstrated how technology can serve as a “patient companion” by providing tailored information, motivational support, and peer guidance to improve cardiac rehabilitation participation.",
+      "Herz-Kreislauf-Erkrankungen stellen eine große gesundheitliche Herausforderung dar. Dennoch nehmen viele Patient:innen die kardiale Rehabilitation aufgrund von Lücken im Überweisungsprozess sowie unzureichender Information nicht in Anspruch. Diese Forschung untersuchte die Bedürfnisse von Patient:innen während des Übergangs vom Krankenhaus in die Rehabilitation und identifizierte Unterstützungsbedarfe in drei Phasen: während des Krankenhausaufenthalts, zu Hause und während der Rehabilitation. Gemeinsam mit Patient:innen und medizinischem Fachpersonal wurde ein digitaler Assistent zur Überweisung in die kardiale Rehabilitation entwickelt. Die Studie zeigt, wie Technologie als „Patientenbegleiter“ dienen kann, indem sie personalisierte Informationen, unterstützende Hinweise sowie Erfahrungsberichte anderer Patient:innen bereitstellt, um die Teilnahme an der kardialen Rehabilitation zu fördern.",
     publications: [
       {
         title: "Co-designing an information map guiding patients on their journey to cardiac rehabilitation in Austria",
@@ -41,10 +41,10 @@ const projects = [
   },
   {
     date: "XX/XX –XX/25",
-    name: "Evaluation of the HERO App for Cardiac Rehabilitation Pathways",
-    tags: ["Exploratory Field Study"],
+    name: "Evaluation der HERO App für kardiale Rehabilitationspfade",
+    tags: ["Explorative Feldstudie"],
     description:
-      "Transitioning from hospital care to cardiac rehabilitation can be challenging. The HERO app provides guidance, emotional support, and motivation during this phase. In a mixed-methods study, patients reported that it helped them understand their condition, plan rehabilitation, and stay motivated. The study highlights four key pillars for digital support: timely access, actionable guidance, peer support, and short-term usability, offering a roadmap for patient-centered mHealth solutions.",
+      "Der Übergang von der Krankenhausversorgung zur kardialen Rehabilitation kann eine Herausforderung darstellen. Die HERO App bietet Unterstützung, emotionale Begleitung und Motivation während dieser Phase. In einer Mixed-Methods-Studie berichteten Patient:innen, dass die App ihnen half, ihre Erkrankung zu verstehen, die Rehabilitation zu planen und motiviert zu bleiben. Die Studie identifiziert vier zentrale Säulen für digitale Unterstützung: zeitnahen Zugang zu Informationen, handlungsorientierte Hinweise, Unterstützung durch Betroffene mit ähnlichen Erfahrungen und kurzfristige Nutzbarkeit und schafft damit eine konzeptuelle Grundlage für patientenzentrierte mHealth-Lösungen.",
     publications: [
       {
         title: "mHealth Support in Cardiac Care Pathways for Patient Self-Management During Transitions From Hospital to Rehabilitation: Exploratory Field Study",
