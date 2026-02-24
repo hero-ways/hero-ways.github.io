@@ -44,7 +44,7 @@ const projects = [
     name: "Evaluation der HERO App für kardiale Rehabilitationspfade",
     tags: ["Explorative Feldstudie"],
     description:
-      "Der Übergang von der Krankenhausversorgung zur kardialen Rehabilitation kann eine Herausforderung darstellen. Die HERO App bietet Unterstützung, emotionale Begleitung und Motivation während dieser Phase. In einer Mixed-Methods-Studie berichteten Patient:innen, dass die App ihnen half, ihre Erkrankung zu verstehen, die Rehabilitation zu planen und motiviert zu bleiben. Die Studie identifiziert vier zentrale Säulen für digitale Unterstützung: zeitnahen Zugang zu Informationen, handlungsorientierte Hinweise, Unterstützung durch Betroffene mit ähnlichen Erfahrungen und kurzfristige Nutzbarkeit und schafft damit eine konzeptuelle Grundlage für patientenzentrierte mHealth-Lösungen.",
+      "Der Übergang von der Krankenhausversorgung zur kardialen Rehabilitation kann eine Herausforderung darstellen. Die HERO App bietet Unterstützung, emotionale Begleitung und Motivation während dieser Phase. In einer Mixed-Methods-Studie berichteten Patient:innen, dass die App ihnen half, ihre Erkrankung zu verstehen, die Rehabilitation zu planen und motiviert zu bleiben. Die Studie identifiziert vier zentrale Säulen für digitale Unterstützung: zeitnahen Zugang zu Informationen, handlungsorientierte Hinweise, Unterstützung durch Betroffene mit ähnlichen Erfahrungen und kurzfristige Nutzbarkeit und schafft damit eine konzeptuelle Grundlage für patientenzentrierte mHealth-Lösungen..",
     publications: [
       {
         title: "mHealth Support in Cardiac Care Pathways for Patient Self-Management During Transitions From Hospital to Rehabilitation: Exploratory Field Study",
