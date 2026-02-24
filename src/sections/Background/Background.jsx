@@ -18,17 +18,12 @@ const Background = () => {
                         </a>
                     </div>
                 </div>
-                <br/>
+                <br />
                 <p className='logo-header'>{t('background.support')}</p>
                 <div className="logo-container">
                     <div className="logo-wrapper">
-                        <a href="https://salk.at/sportmedizin/" target="_blank">
-                            <img src="/logos/SALK.png" />
-                        </a>
-                    </div>
-                    <div className="logo-wrapper">
-                        <a href="https://lbg.ac.at/open-innovation-in-science/" target="_blank">
-                            <img src="/logos/LBG-OIS.png" />
+                        <a href="https://www.plus.ac.at/" target="_blank">
+                            <img src="/logos/PLUS.png" />
                         </a>
                     </div>
                     <div className="logo-wrapper">
@@ -37,9 +32,14 @@ const Background = () => {
                         </a>
                     </div>
                 </div>
-                <br/>
+                <br />
                 <p className='logo-header'>{t('background.funded')}</p>
                 <div className="logo-container">
+                    <div className="logo-wrapper">
+                        <a href="https://lbg.ac.at/open-innovation-in-science/" target="_blank">
+                            <img src="/logos/LBG-OIS.png" />
+                        </a>
+                    </div>
                     <div className="logo-wrapper">
                         <a href="https://prehab2rehab.at/" target="_blank">
                             <img src="/logos/Prehab2Rehab.svg" />

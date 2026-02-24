@@ -16,7 +16,7 @@ const en = {
     contact: "Contact"
   },
   about: {
-    slogan: "Hero Ways: Helping patients find their way through clinical care pathways.",
+    slogan: "Hero Ways: Helping patients navigate their way through clinical care pathways.",
     keywords: "To inform is to empower.",
     desc: aboutMD,
     screenshots: [
