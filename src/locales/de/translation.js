@@ -42,7 +42,7 @@ const de = {
   evidence: { desc: evidenceMD, projects: projectsJS, publications: "Publikation(en):" },
   contact: {
     heading: "Kontakt",
-    description: "Wenn Sie Fragen oder Anmerkungen haben oder mehr Informationen über die Verwendung von aktivplan erhalten möchten, können Sie sich jederzeit gerne an uns wenden.",
+    description: "Wenn Sie Fragen oder Anmerkungen haben oder mehr Informationen über die Verwendung von Hero Ways erhalten möchten, können Sie sich jederzeit gerne an uns wenden.",
     subheading: "Ludwig Boltzmann Institut für Digitale Gesundheit und Prävention",
     address: "Lindhofstr. 22, 5020 Salzburg, Österreich",
     phone: "Telefon",

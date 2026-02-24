@@ -1,3 +1,3 @@
 # Anwendung und wissenschaftliche Evidenz
 
-Die HERO WAYS App wurde in enger Zusammenarbeit mit Herzpatient:innen und Gesundheitsexpert:innen entwickelt und anschließend im Feld getestet. Sie wird kontinuierlich weiterentwickelt und evaluiert. Die gewonnenen Forschungsergebnisse fließen fortlaufend in das Design und die Funktionalität der Anwendung ein und schaffen so eine solide wissenschaftliche Grundlage.
+Die HERO WAYS App wurde in enger Zusammenarbeit mit Patient:innen und Gesundheitsexpert:innen entwickelt und anschließend im Feld getestet. Sie wird kontinuierlich weiterentwickelt und evaluiert. Die gewonnenen Forschungsergebnisse fließen fortlaufend in das Design und die Funktionalität der Anwendung ein und schaffen so eine solide wissenschaftliche Grundlage.
