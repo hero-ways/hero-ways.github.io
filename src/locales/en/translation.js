@@ -42,7 +42,7 @@ const en = {
   evidence: { desc: evidenceMD, projects: projectsJS, publications: "Publication(s):" },
   contact: {
     heading: "Contact",
-    description: "If you have any questions or comments, or would like to receive more information about **aktiv**plan, please feel free to contact us at any time.",
+    description: "If you have any questions or comments, or would like to receive more information about Hero Ways, please feel free to contact us at any time.",
     subheading: "Ludwig Boltzmann Institute for Digital Health and Prevention",
     address: "Lindhofstr. 22, 5020 Salzburg, Austria",
     phone: "Phone",
