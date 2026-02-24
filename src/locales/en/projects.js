@@ -4,7 +4,7 @@ const projects = [
     name: "Identifying Barriers to Cardiac Rehabilitation Participation in Austria",
     tags: ["Contextual Inquiry"],
     description:
-      "Cardiac rehabilitation is vital for preventing further heart problems, yet many eligible patients do not take part. This study examined the cardiac rehabilitation referral process in Austria through observations and stakeholder interviews, identifying gaps such as unclear referrals, limited communication between care settings, and lack of patient information. Findings suggest digital health tools should provide timely guidance, automate referrals, and enhance communication to support patient-centered care pathways.",
+      "Cardiac rehabilitation is vital for preventing further heart problems, yet many eligible patients do not take part. This study examined the cardiac rehabilitation referral process in Austria through observations and stakeholder interviews, identifying gaps such as unclear referrals, limited communication between care settings, and lack of patient information. Findings suggest that digital health tools could provide timely guidance, automate referrals, and enhance communication to support patient-centered care pathways.",
     publications: [
       {
         title: "Establishing Foundations on Both Sides of the Bridge: Exploring Contextual Barriers to Cardiac Rehabilitation Uptake to Inform Digital Health Technology Design",
@@ -17,7 +17,7 @@ const projects = [
     name: "Co-Designing a Digital Companion to Support Cardiac Rehabilitation Transitions",
     tags: ["Co-Design"],
     description:
-      "Cardiovascular diseases are a major health challenge, yet many patients miss out on cardiac rehabilitation due to gaps in the referral process and limited information. This research explored patients’ needs during the transition from hospital to rehabilitation, identifying guidance required at three stages: hospital stay, time at home, and during CR. It also co-designed a digital cardiac rehabilitation referral assistant with patients and healthcare professionals, showing how technology can act as a “patient companion”, providing tailored information, motivational support, and peer guidance to improve CR participation.",
+      "Cardiovascular diseases are a major health challenge, yet many patients miss out on cardiac rehabilitation due to gaps in the referral process and limited information. This research explored patients’ needs during the transition from hospital to rehabilitation, identifying guidance required at three stages: hospital stay, time at home, and during cardiac rehabilitation. It also co-designed a digital cardiac rehabilitation referral assistant with patients and healthcare professionals. The project demonstrated how technology can serve as a “patient companion” by providing tailored information, motivational support, and peer guidance to improve cardiac rehabilitation participation.",
     publications: [
       {
         title: "Co-designing an information map guiding patients on their journey to cardiac rehabilitation in Austria",
