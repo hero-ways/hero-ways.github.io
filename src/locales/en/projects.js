@@ -1,6 +1,6 @@
 const projects = [
   {
-    date: "XX/XX –XX/24",
+    date: "05/21 –06/22",
     name: "Identifying Barriers to Cardiac Rehabilitation Participation in Austria",
     tags: ["Contextual Inquiry"],
     description:
@@ -13,7 +13,7 @@ const projects = [
     ]
   },
   {
-    date: "XX/XX –XX/24",
+    date: "02/23 –05/24",
     name: "Co-Designing a Digital Companion to Support Cardiac Rehabilitation Transitions",
     tags: ["Co-Design"],
     description:
@@ -40,7 +40,7 @@ const projects = [
     ]
   },
   {
-    date: "XX/XX –XX/25",
+    date: "08/24 –03/25",
     name: "Evaluation of the HERO App for Cardiac Rehabilitation Pathways",
     tags: ["Exploratory Field Study"],
     description:
