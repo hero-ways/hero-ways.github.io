@@ -1,6 +1,6 @@
 const projects = [
   {
-    date: "XX/XX –XX/24",
+    date: "05/21 –06/22",
     name: "Kontextuelle Untersuchung von Barrieren für die Inanspruchnahme kardialer Rehabilitation in Österreich",
     tags: ["Kontextuelle Untersuchung"],
     description:
@@ -13,7 +13,7 @@ const projects = [
     ]
   },
   {
-    date: "XX/XX –XX/24",
+    date: "02/23 –05/24",
     name: "Co-Design eines digitalen Begleiters, um den Zugang zur kardialen Rehabilitation zu erleichtern",
     tags: ["Co-Design"],
     description:
@@ -40,7 +40,7 @@ const projects = [
     ]
   },
   {
-    date: "XX/XX –XX/25",
+    date: "08/24 –03/25",
     name: "Evaluation der HERO App für kardiale Rehabilitationspfade",
     tags: ["Explorative Feldstudie"],
     description:
